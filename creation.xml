@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bgris">
+
+
+    <TextView
+        android:id="@+id/titre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/annance"
+        android:textColor="@color/bleu"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:layout_gravity="center_horizontal"
+        />
+    <TextView
+        android:id="@+id/nom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tnom"
+        android:textStyle="bold"
+        android:textColor="@color/bleu"
+        />
+    <EditText
+        android:id="@+id/hintNom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/hnom"/>
+    <TextView
+        android:id="@+id/numTel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tnum"
+        android:textStyle="bold"
+        android:textColor="@color/bleu"
+        />
+    <EditText
+        android:id="@+id/num"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/hnum"/>
+    <TextView
+        android:id="@+id/adresst"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tadd"
+        android:textStyle="bold"
+        android:textColor="@color/bleu"
+        />
+    <EditText
+        android:id="@+id/adressE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/hadd"/>
+
+    <TextView
+        android:id="@+id/catégorieT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tcat"
+        android:textStyle="bold"
+        android:textColor="@color/bleu"
+        />
+    <EditText
+        android:id="@+id/catégorieE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/hcat"/>
+
+
+    <TextView
+        android:id="@+id/typeT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ttype"
+        android:textStyle="bold"
+        android:textColor="@color/bleu"
+        />
+    <EditText
+        android:id="@+id/typeE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/htype"/>
+
+   <ImageView
+       android:id="@+id/imgapp"
+       android:layout_width="100sp"
+       android:layout_height="100sp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/bimg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/chargerImg"
+            android:textColor="@color/bleu"
+            android:textStyle="bold"/>
+    <Button
+        android:id="@+id/valide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bvalide"
+        android:textColor="@color/red"
+        android:textStyle="bold"
+        />
+    <Button
+        android:id="@+id/annuler"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bannul"
+        android:textColor="@color/red"
+        android:textStyle="bold"
+        />
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="type_maison">
+        <item>Villa</item>
+        <item>S+1</item>
+        <item>S+2</item>
+        <item>S+3</item>
+    </array>
+    <array name="Types_maison">
+        <item>villa</item>
+        <item>S+1</item>
+        <item>S+2</item>
+        <item>S+3</item>
+    </array>
+</resources>

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Location</string>
+    <string name="image_des">CustomListView</string>
+    <string name="nom">ALIN  </string>
+    <string name="desc">DARI MEZYANA W NDHIFA W FEHA CONNEXION ILLIMITE W MANKRITEHECH 9BAL L ZIZOU W ECHELA </string>
+    <string name="emplacement"> BOULVARD DE LA VILLETE  </string>
+    <string name="prix"> 300£  </string>
+    <string name="annance"> Créer une annonce </string>
+    <string name="louer"> Louer </string>
+    <string name="bvalide"> Valider </string>
+    <string name="bannul"> Annuler"</string>
+    <string name="hdesc"> Ajouter la description de votre maison</string>
+    <string name="tdesc"> Description</string>
+    <string name="htype"> Entrez le type de votre maison </string>
+    <string name="ttype"> Type </string>
+    <string name="hcat"> Maison/villa/appartement </string>
+    <string name="tcat"> Catégorie </string>
+    <string name="hadd"> Entrez votre adresse </string>
+    <string name="tadd"> Adresse</string>
+    <string name="hnum"> Ajouter votre numéro de téléphone </string>
+    <string name="tnum"> Numéro de téléphone </string>
+    <string name="hnom"> Entrez votre nom et prénom </string>
+    <string name="tnom"> Nom et Prénom </string>
+    <string name="chargerImg"> charger une image</string>
+    <string name="annonce"> Ajouter vote annonce</string>
+    <string name="_2458889">2458889</string>
+    <string name="mohamed_ben_salah">Mohamed ben Salah</string>
+    <string name="tunis">Tunis</string>
+    <string name="ben_arous">ben arous</string>
+    <string name="numtt">99856521</string>
+    <string name="imen">Imen Najar</string>
+    <string name="beni_khiar">beni khiar</string>
+    <string name="moussa_zied">Moussa zied</string>
+    <string name="kelibia">kelibia</string>
+    <string name="_9856321">9856321</string>
+    <string name="arfaoui_najla">Arfaoui Najla</string>
+
+
+</resources>
